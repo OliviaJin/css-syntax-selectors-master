@@ -1,0 +1,18 @@
+body{
+    text-emphasis: filled;
+}
+h1 {
+    color:blueviolet;
+    background-color: bisque;
+}
+.quote {
+    color:orange;
+}
+.quote .narrator {
+    outline-style: dashed;
+    outline-color: bisque;
+} 
+#intro p {
+    color: blue;
+    transform:scaleX(2);
+}
